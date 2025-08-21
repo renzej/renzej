@@ -1,4 +1,7 @@
-# 💫 About Me:
+# Hi I'm Rence
+### Software Developer
+
+## 💫 About Me:
 I’m currently learning React and Next.js  <br>I enjoy building apps that solve real problems and improve user experiences  <br>I enjoy expanding my network to forge connections with other developers and professionals  <br>My goal is to become a well-rounded full-stack developer  
 
 
